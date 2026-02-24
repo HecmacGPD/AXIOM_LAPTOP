@@ -1,0 +1,14 @@
+This project is open-source hardware, and is multi-licensed to protect the physical design, the firmware, and the documentation respectively.
+
+Please see the corresponding license files in the root of this repository for the full legal text:
+
+1. HARDWARE: The physical design files, schematics, Gerber files, and PCBs are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
+   See `LICENSE-HARDWARE.txt`
+
+2. FIRMWARE: The source code and firmware are licensed under the GNU General Public License v3.0 (GPL-3.0).
+   See `LICENSE-FIRMWARE.txt`
+
+3. DOCUMENTATION: The project documentation, build guides, and images are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+   See `LICENSE-DOCS.txt`
+
+Copyright (c) 2026 [Hector Mclean]
